@@ -10,6 +10,12 @@ This mini project is **COMPUTER SHOP MANAGEMENT SYSTEM** developed in C++ using 
 
 ### How to Run?
 
+1. Open Folder in IDE
+2. Run Project.cpp file in cmd as- **g++ Project.cpp**
+3. Hit Enter
+
+You can directly run the program by accessing **a.exe** file. Simply open it.
+
 <hr/>
 
 This project mainly consists of six functions. <br/>
