@@ -8,6 +8,10 @@ This mini project is **COMPUTER SHOP MANAGEMENT SYSTEM** developed in C++ using 
 
 <hr/>
 
+### How to Run?
+
+<hr/>
+
 This project mainly consists of six functions. <br/>
 
 
