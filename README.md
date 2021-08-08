@@ -42,22 +42,30 @@ This project mainly consists of six functions. <br/>
 
   **1. Take Computer / Laptop Orders**
 
-![Take Order](https://user-images.githubusercontent.com/65342304/128621630-a8fed14e-3c21-43bb-bfc0-53d4f24b9fae.gif)
+  ![Take Order](https://user-images.githubusercontent.com/65342304/128621630-a8fed14e-3c21-43bb-bfc0-53d4f24b9fae.gif)
 
 <p>&nbsp;</p>
 
-  **2. Delete and Modify Computer Orders**
+  **2. Delete Computer Orders**
   
+  ![Delete Order](https://user-images.githubusercontent.com/65342304/128636992-26709421-f414-4883-97b6-af9a5add5ca2.gif)
+
 <p>&nbsp;</p>
 
-  **3. Print Receipt**
+  **3. Modify Computer Orders**
   
+  ![Modify Order](https://user-images.githubusercontent.com/65342304/128636871-bf44a72f-000c-4f95-a704-6626209eed15.gif)
+
 <p>&nbsp;</p>
 
-  **4. Make Payment**
+  **4. Print Receipt**
+
+  ![Print Receipt](https://user-images.githubusercontent.com/65342304/128636811-c6d763c1-775a-4437-bd67-1378fffb5fb4.gif)
   
 <p>&nbsp;</p>
 
   **5. Summary of Total Sales**
+  
+  ![Total Summary](https://user-images.githubusercontent.com/65342304/128636703-330973d9-679a-475e-87b3-fd19ae4fb7ca.png)
 
 <hr/>
