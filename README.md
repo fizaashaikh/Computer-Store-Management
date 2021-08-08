@@ -14,6 +14,8 @@ This mini project is **COMPUTER SHOP MANAGEMENT SYSTEM** developed in C++ using 
 2. Run **Project.cpp** file in cmd as - **g++ Project.cpp**
 3. Hit Enter
 
+![How to Run](https://user-images.githubusercontent.com/65342304/128621157-f96e5710-540a-4759-85be-13a24da0a47e.gif)
+
 You can directly run the program by accessing **a.exe** file. Simply open it.
 
 <hr/>
@@ -34,20 +36,28 @@ This project mainly consists of six functions. <br/>
 
 <hr/>
 
-<p>&nbsp;</p>
-
 ### Features:
 
 <p>&nbsp;</p>
 
-**1. Take Computer / Laptop Orders**
+  **1. Take Computer / Laptop Orders**
 
-**2. Delete and Modify Computer Orders**
+![Take Order](https://user-images.githubusercontent.com/65342304/128621630-a8fed14e-3c21-43bb-bfc0-53d4f24b9fae.gif)
 
-**3. Print Receipt**
+<p>&nbsp;</p>
 
-**4. Make Payment**
+  **2. Delete and Modify Computer Orders**
+  
+<p>&nbsp;</p>
 
-**5. Summary of Total Sales**
+  **3. Print Receipt**
+  
+<p>&nbsp;</p>
+
+  **4. Make Payment**
+  
+<p>&nbsp;</p>
+
+  **5. Summary of Total Sales**
 
 <hr/>
