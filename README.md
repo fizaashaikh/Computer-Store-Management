@@ -22,11 +22,11 @@ You can directly run the program by accessing **a.exe** file. Simply open it.
 This project mainly consists of six functions. <br/>
 
 
-First function is **insert()** function in which user can place order for new computers/laptops. <br/>
-Second function is **delete()** function which deletes the order added in the **insert()** function. <br/>
-Third function is **modify()** function which helps the user to modify(change) the already placed order. <br/>
-Fourth function is **order_list()** it gives the receipt for the order placed by customer. <br/>
-Fifth function is **daily_summary()** it displays the details of all the transactions that are performed on that day. 
+- First function is **insert()** function in which user can place order for new computers/laptops. <br/>
+- Second function is **delete()** function which deletes the order added in the **insert()** function. <br/>
+- Third function is **modify()** function which helps the user to modify(change) the already placed order. <br/>
+- Fourth function is **order_list()** it gives the receipt for the order placed by customer. <br/>
+- Fifth function is **daily_summary()** it displays the details of all the transactions that are performed on that day. 
 
 <hr/>
 
