@@ -32,7 +32,7 @@ This project mainly consists of six functions. <br/>
 
 <hr/>
 
-**It is a user interactive program where the user can view the required display in console by making use of the simple input.**
+**It is the user-interactive program where the user can view the required display in the console by making use of the simple input**
 
 <hr/>
 
