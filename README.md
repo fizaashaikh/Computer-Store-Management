@@ -21,14 +21,14 @@ You can directly run the program by accessing **a.exe** file. Simply open it.
 <hr/>
 
 ### Working
-This project mainly consists of six functions. <br/>
+This project mainly consists of five functions. <br/>
 
 
-- First function is **insert()** function in which user can place order for new computers/laptops. <br/>
-- Second function is **delete()** function which deletes the order added in the **insert()** function. <br/>
-- Third function is **modify()** function which helps the user to modify(change) the already placed order. <br/>
-- Fourth function is **order_list()** it gives the receipt for the order placed by customer. <br/>
-- Fifth function is **daily_summary()** it displays the details of all the transactions that are performed on that day. 
+- **insert():** in which user can place order for new computers/laptops. <br/>
+- **delete():** which deletes the order added in the **insert()** function. <br/>
+- **modify():** which helps the user to modify(change) the already placed order. <br/>
+- **order_list():** it gives the receipt for the order placed by customer. <br/>
+- **daily_summary():** it displays the details of all the transactions that are performed on that day. 
 
 <hr/>
 
